@@ -1,21 +1,21 @@
 {
-  "version": "0.2.0",
-  "notes": "• Erste Version zum Download\n• Autopilot: ein Klick richtet alles ein (Erkennung, Rollen, Namen, Gain, KI-Klangmix, Feedback einmessen)\n• Feedback-Killer, Automix, Lautstärke halten, Show-Ablauf, Musiker-Monitor am Handy, Ducking, Show-Bericht\n• Simulator mit Demo-Band zum Ausprobieren ohne Pult\n• Automatische Updates",
+  "version": "0.3.0",
+  "notes": "• Neu: Mehrspur-Aufnahme – jeder Kanal einzeln als WAV (24 Bit)\n• Neu: Sprachsteuerung offline – „Techniker, Rede 1 lauter“\n• Neu: KI-Diagnose – Brummen, Wackelkontakt, Aussetzer, Funk-Akku, Übersprechen\n• Neu: KI-Klangmix, Show-Ablauf mit Szenen, Musiker-Monitor am Handy, Pausenmusik-Ducking, Show-Bericht (PDF)\n• Besser: Autopilot mit KI-Klangmix, klarere Meldungen",
   "page": "https://github.com/bungalskin-ui/autofoh-releases",
   "date": "2026-11-04",
   "assets": [
     {
       "file": "AutoFOH-Mac-AppleSilicon-M1-M2-M3-M4.zip",
-      "url": "https://github.com/bungalskin-ui/autofoh-releases/releases/download/v0.2.0/AutoFOH-Mac-AppleSilicon-M1-M2-M3-M4.zip",
-      "sha256": "0a463b932aad4d2c35e79374fbd7e8955e511107188e746e411e3e466f6faee2",
-      "size": 1840013,
+      "url": "https://github.com/bungalskin-ui/autofoh-releases/releases/download/v0.3.0/AutoFOH-Mac-AppleSilicon-M1-M2-M3-M4.zip",
+      "sha256": "9e7b4e29495090c010dcb7dfa137f0fd61ad05c5956c4fdf7d64b6fb6d93c33b",
+      "size": 1946061,
       "arch": "arm64"
     },
     {
       "file": "AutoFOH-Mac-Intel.zip",
-      "url": "https://github.com/bungalskin-ui/autofoh-releases/releases/download/v0.2.0/AutoFOH-Mac-Intel.zip",
-      "sha256": "ad0ff377812325fa16c8e38ec7976dfd80640be46c411158a6b14252416b696b",
-      "size": 1913823,
+      "url": "https://github.com/bungalskin-ui/autofoh-releases/releases/download/v0.3.0/AutoFOH-Mac-Intel.zip",
+      "sha256": "d3d4ef7ea7b53d10060d4622ffeee4d9d15eba557c1dda5c20feea1b94f0b73b",
+      "size": 2024728,
       "arch": "x86_64"
     }
   ]
