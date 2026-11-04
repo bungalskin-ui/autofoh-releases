@@ -1,21 +1,21 @@
 {
-  "version": "0.3.1",
-  "notes": "• Von Apple geprüft: signiert und notarisiert, keine Warnung mehr beim Öffnen\n• AutoFOH zieht beim Start selbst in den Ordner „Programme“\n• Einmalig: macOS fragt die Mikrofon-Freigabe neu ab, Einstellungen bleiben erhalten",
+  "version": "0.3.2",
+  "notes": "• Neu: AutoFOH startet mit deinem Konto aus der Veranstaltungs-Toolbox\n• Neu: Nach der Anmeldung läuft AutoFOH auch bis zu 14 Tage ohne Internet",
   "page": "https://github.com/bungalskin-ui/autofoh-releases",
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "assets": [
     {
       "file": "AutoFOH-Mac-AppleSilicon-M1-M2-M3-M4.zip",
-      "url": "https://github.com/bungalskin-ui/autofoh-releases/releases/download/v0.3.1/AutoFOH-Mac-AppleSilicon-M1-M2-M3-M4.zip",
-      "sha256": "07734dd7f81ec307a089f9662c8eaaac72d4af12f80fc9402e7cac52c818067f",
-      "size": 1956308,
+      "url": "https://github.com/bungalskin-ui/autofoh-releases/releases/download/v0.3.2/AutoFOH-Mac-AppleSilicon-M1-M2-M3-M4.zip",
+      "sha256": "f56ebc587d0843558920eae4d3686050676918d52171225e265b9c221a3fc93c",
+      "size": 1975179,
       "arch": "arm64"
     },
     {
       "file": "AutoFOH-Mac-Intel.zip",
-      "url": "https://github.com/bungalskin-ui/autofoh-releases/releases/download/v0.3.1/AutoFOH-Mac-Intel.zip",
-      "sha256": "e3f52137d5e9a8da0e60613e07121656ab32662c9fd2406a76c8dbb3bf09f835",
-      "size": 2044313,
+      "url": "https://github.com/bungalskin-ui/autofoh-releases/releases/download/v0.3.2/AutoFOH-Mac-Intel.zip",
+      "sha256": "6729d8cc376f3298ee0d55bf6c0baf4dd1e14ba350e5c3f867ce67f0de9e3563",
+      "size": 2066519,
       "arch": "x86_64"
     }
   ]
