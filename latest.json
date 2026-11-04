@@ -1,0 +1,22 @@
+{
+  "version": "0.2.0",
+  "notes": "• Erste Version zum Download\n• Autopilot: ein Klick richtet alles ein (Erkennung, Rollen, Namen, Gain, KI-Klangmix, Feedback einmessen)\n• Feedback-Killer, Automix, Lautstärke halten, Show-Ablauf, Musiker-Monitor am Handy, Ducking, Show-Bericht\n• Simulator mit Demo-Band zum Ausprobieren ohne Pult\n• Automatische Updates",
+  "page": "https://github.com/bungalskin-ui/autofoh-releases",
+  "date": "2026-11-04",
+  "assets": [
+    {
+      "file": "AutoFOH-Mac-AppleSilicon-M1-M2-M3-M4.zip",
+      "url": "https://github.com/bungalskin-ui/autofoh-releases/releases/download/v0.2.0/AutoFOH-Mac-AppleSilicon-M1-M2-M3-M4.zip",
+      "sha256": "0a463b932aad4d2c35e79374fbd7e8955e511107188e746e411e3e466f6faee2",
+      "size": 1840013,
+      "arch": "arm64"
+    },
+    {
+      "file": "AutoFOH-Mac-Intel.zip",
+      "url": "https://github.com/bungalskin-ui/autofoh-releases/releases/download/v0.2.0/AutoFOH-Mac-Intel.zip",
+      "sha256": "ad0ff377812325fa16c8e38ec7976dfd80640be46c411158a6b14252416b696b",
+      "size": 1913823,
+      "arch": "x86_64"
+    }
+  ]
+}
