@@ -1,21 +1,21 @@
 {
-  "version": "0.3.0",
-  "notes": "• Neu: Mehrspur-Aufnahme – jeder Kanal einzeln als WAV (24 Bit)\n• Neu: Sprachsteuerung offline – „Techniker, Rede 1 lauter“\n• Neu: KI-Diagnose – Brummen, Wackelkontakt, Aussetzer, Funk-Akku, Übersprechen\n• Neu: KI-Klangmix, Show-Ablauf mit Szenen, Musiker-Monitor am Handy, Pausenmusik-Ducking, Show-Bericht (PDF)\n• Besser: Autopilot mit KI-Klangmix, klarere Meldungen",
+  "version": "0.3.1",
+  "notes": "• Von Apple geprüft: signiert und notarisiert, keine Warnung mehr beim Öffnen\n• AutoFOH zieht beim Start selbst in den Ordner „Programme“\n• Einmalig: macOS fragt die Mikrofon-Freigabe neu ab, Einstellungen bleiben erhalten",
   "page": "https://github.com/bungalskin-ui/autofoh-releases",
   "date": "2026-11-04",
   "assets": [
     {
       "file": "AutoFOH-Mac-AppleSilicon-M1-M2-M3-M4.zip",
-      "url": "https://github.com/bungalskin-ui/autofoh-releases/releases/download/v0.3.0/AutoFOH-Mac-AppleSilicon-M1-M2-M3-M4.zip",
-      "sha256": "9e7b4e29495090c010dcb7dfa137f0fd61ad05c5956c4fdf7d64b6fb6d93c33b",
-      "size": 1946061,
+      "url": "https://github.com/bungalskin-ui/autofoh-releases/releases/download/v0.3.1/AutoFOH-Mac-AppleSilicon-M1-M2-M3-M4.zip",
+      "sha256": "07734dd7f81ec307a089f9662c8eaaac72d4af12f80fc9402e7cac52c818067f",
+      "size": 1956308,
       "arch": "arm64"
     },
     {
       "file": "AutoFOH-Mac-Intel.zip",
-      "url": "https://github.com/bungalskin-ui/autofoh-releases/releases/download/v0.3.0/AutoFOH-Mac-Intel.zip",
-      "sha256": "d3d4ef7ea7b53d10060d4622ffeee4d9d15eba557c1dda5c20feea1b94f0b73b",
-      "size": 2024728,
+      "url": "https://github.com/bungalskin-ui/autofoh-releases/releases/download/v0.3.1/AutoFOH-Mac-Intel.zip",
+      "sha256": "e3f52137d5e9a8da0e60613e07121656ab32662c9fd2406a76c8dbb3bf09f835",
+      "size": 2044313,
       "arch": "x86_64"
     }
   ]

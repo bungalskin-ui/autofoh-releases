@@ -4,7 +4,7 @@
 pegelt ein, mischt, beseitigt Rückkopplungen in einer halben Sekunde, mischt Redner automatisch
 und hält die Saal-Lautstärke. Kostenlos, läuft lokal auf dem Mac, ohne Cloud.
 
-Erstellt von Norbert Bungalski. Aktuelle Version: **0.3.0**
+Erstellt von Norbert Bungalski. Aktuelle Version: **0.3.1**
 
 ## Herunterladen
 
@@ -22,10 +22,11 @@ Alles andere läuft auch ohne.
 
 ## Installieren (Mac)
 
-1. Zip entpacken, `AutoFOH` in den Ordner **Programme** ziehen.
-2. Beim ersten Öffnen erscheint „Nicht geöffnet“: Systemeinstellungen → Datenschutz & Sicherheit → unten **„Trotzdem öffnen“**.
-   (Alternativ im Terminal: `xattr -cr /Applications/AutoFOH.app`)
-3. AutoFOH starten → **„Alles automatisch einrichten“**. Ohne Pult läuft eine Simulation mit Demo-Band.
+Am einfachsten über die [Veranstaltungs-Toolbox](https://bungalskin-ui.github.io/veranstaltungs-toolbox-releases/): ein Klick auf **Installieren**.
+
+Oder von Hand: Zip öffnen, `AutoFOH` starten. Die App ist von Apple geprüft (signiert und notarisiert) und zieht
+beim ersten Start selbst in den Ordner **Programme**. Dann **„Alles automatisch einrichten“** klicken.
+Ohne Pult läuft eine Simulation mit Demo-Band.
 
 ## Andere Geräte (Handy, Tablet, Windows)
 
