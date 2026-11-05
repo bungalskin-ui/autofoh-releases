@@ -1,21 +1,21 @@
 {
-  "version": "0.5.0",
-  "notes": "• Neu: SoundCheck AI schreibt EQ-Vorschläge nach deiner Bestätigung selbst aufs Pult, mit Rampe und Rückgängig. Das geht auf Mix 1–6 und Mtrx 1–2, am echten DM3 erst nach bestandenem PEQ-Test.\n• Das Messprotokoll zeigt, was übernommen wurde.",
+  "version": "0.5.1",
+  "notes": "• Neu: SoundCheck AI schreibt mit einem einzigen Ja alle EQ-Werte selbst aufs Pult. Die Rückfrage zeigt jede Änderung.\n• Neu: „Alles rückgängig“ stellt die Bänder wieder her.\n• Am echten DM3 einmal den PEQ-Test in der Einrichtung machen, vorher bleibt das Schreiben gesperrt.",
   "page": "https://github.com/bungalskin-ui/autofoh-releases",
   "date": "2026-11-05",
   "assets": [
     {
       "file": "AutoFOH-Mac-AppleSilicon-M1-M2-M3-M4.zip",
-      "url": "https://github.com/bungalskin-ui/autofoh-releases/releases/download/v0.5.0/AutoFOH-Mac-AppleSilicon-M1-M2-M3-M4.zip",
-      "sha256": "c3e946285dad7d8e037bbd44d41004b35fc631bff83afd1a09c7e56838ff16e0",
-      "size": 2349391,
+      "url": "https://github.com/bungalskin-ui/autofoh-releases/releases/download/v0.5.1/AutoFOH-Mac-AppleSilicon-M1-M2-M3-M4.zip",
+      "sha256": "02e396012725debb563dc3ae22c84f1c06c2472d61d3c8736874249632594f4f",
+      "size": 2365177,
       "arch": "arm64"
     },
     {
       "file": "AutoFOH-Mac-Intel.zip",
-      "url": "https://github.com/bungalskin-ui/autofoh-releases/releases/download/v0.5.0/AutoFOH-Mac-Intel.zip",
-      "sha256": "2fb4bb9147760678131f9c7770a08c9c8c3c0d780e04fdcb84d69de49916d8a3",
-      "size": 2466778,
+      "url": "https://github.com/bungalskin-ui/autofoh-releases/releases/download/v0.5.1/AutoFOH-Mac-Intel.zip",
+      "sha256": "8494d76de4491736b5e8a5718f10e62b606655a5e112857780c6dfd020600c1e",
+      "size": 2482486,
       "arch": "x86_64"
     }
   ]

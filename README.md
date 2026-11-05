@@ -4,7 +4,7 @@
 pegelt ein, mischt, beseitigt Rückkopplungen in einer halben Sekunde, mischt Redner automatisch
 und hält die Saal-Lautstärke. Kostenlos, läuft lokal auf dem Mac, ohne Cloud.
 
-Erstellt von Norbert Bungalski. Aktuelle Version: **0.5.0**
+Erstellt von Norbert Bungalski. Aktuelle Version: **0.5.1**
 
 ## Herunterladen
 
