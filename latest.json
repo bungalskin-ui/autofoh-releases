@@ -1,21 +1,21 @@
 {
-  "version": "0.3.2",
-  "notes": "• Neu: AutoFOH startet mit deinem Konto aus der Veranstaltungs-Toolbox\n• Neu: Nach der Anmeldung läuft AutoFOH auch bis zu 14 Tage ohne Internet",
+  "version": "0.4.0",
+  "notes": "• Neu: SoundCheck AI – Raum per Messmikro einmessen, EQ- und Delay-Vorschläge, Messprotokoll als PDF. Die App schreibt dabei nichts aufs Pult.\n• Neu: Animiertes Dock-Icon, steht während einer Show still.",
   "page": "https://github.com/bungalskin-ui/autofoh-releases",
   "date": "2026-11-05",
   "assets": [
     {
       "file": "AutoFOH-Mac-AppleSilicon-M1-M2-M3-M4.zip",
-      "url": "https://github.com/bungalskin-ui/autofoh-releases/releases/download/v0.3.2/AutoFOH-Mac-AppleSilicon-M1-M2-M3-M4.zip",
-      "sha256": "f56ebc587d0843558920eae4d3686050676918d52171225e265b9c221a3fc93c",
-      "size": 1975179,
+      "url": "https://github.com/bungalskin-ui/autofoh-releases/releases/download/v0.4.0/AutoFOH-Mac-AppleSilicon-M1-M2-M3-M4.zip",
+      "sha256": "715e2fcd2033c92d8cbc93067cd39fdcf6fdeb3a2b87def5d63dff07ebab3e75",
+      "size": 2315711,
       "arch": "arm64"
     },
     {
       "file": "AutoFOH-Mac-Intel.zip",
-      "url": "https://github.com/bungalskin-ui/autofoh-releases/releases/download/v0.3.2/AutoFOH-Mac-Intel.zip",
-      "sha256": "6729d8cc376f3298ee0d55bf6c0baf4dd1e14ba350e5c3f867ce67f0de9e3563",
-      "size": 2066519,
+      "url": "https://github.com/bungalskin-ui/autofoh-releases/releases/download/v0.4.0/AutoFOH-Mac-Intel.zip",
+      "sha256": "59e3f97418ccc452adc07d93648e959be1b242000cd89d4d1493c316d71a3b1c",
+      "size": 2427697,
       "arch": "x86_64"
     }
   ]
