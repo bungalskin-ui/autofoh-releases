@@ -1,21 +1,21 @@
 {
-  "version": "0.4.0",
-  "notes": "• Neu: SoundCheck AI – Raum per Messmikro einmessen, EQ- und Delay-Vorschläge, Messprotokoll als PDF. Die App schreibt dabei nichts aufs Pult.\n• Neu: Animiertes Dock-Icon, steht während einer Show still.",
+  "version": "0.5.0",
+  "notes": "• Neu: SoundCheck AI schreibt EQ-Vorschläge nach deiner Bestätigung selbst aufs Pult, mit Rampe und Rückgängig. Das geht auf Mix 1–6 und Mtrx 1–2, am echten DM3 erst nach bestandenem PEQ-Test.\n• Das Messprotokoll zeigt, was übernommen wurde.",
   "page": "https://github.com/bungalskin-ui/autofoh-releases",
   "date": "2026-11-05",
   "assets": [
     {
       "file": "AutoFOH-Mac-AppleSilicon-M1-M2-M3-M4.zip",
-      "url": "https://github.com/bungalskin-ui/autofoh-releases/releases/download/v0.4.0/AutoFOH-Mac-AppleSilicon-M1-M2-M3-M4.zip",
-      "sha256": "715e2fcd2033c92d8cbc93067cd39fdcf6fdeb3a2b87def5d63dff07ebab3e75",
-      "size": 2315711,
+      "url": "https://github.com/bungalskin-ui/autofoh-releases/releases/download/v0.5.0/AutoFOH-Mac-AppleSilicon-M1-M2-M3-M4.zip",
+      "sha256": "c3e946285dad7d8e037bbd44d41004b35fc631bff83afd1a09c7e56838ff16e0",
+      "size": 2349391,
       "arch": "arm64"
     },
     {
       "file": "AutoFOH-Mac-Intel.zip",
-      "url": "https://github.com/bungalskin-ui/autofoh-releases/releases/download/v0.4.0/AutoFOH-Mac-Intel.zip",
-      "sha256": "59e3f97418ccc452adc07d93648e959be1b242000cd89d4d1493c316d71a3b1c",
-      "size": 2427697,
+      "url": "https://github.com/bungalskin-ui/autofoh-releases/releases/download/v0.5.0/AutoFOH-Mac-Intel.zip",
+      "sha256": "2fb4bb9147760678131f9c7770a08c9c8c3c0d780e04fdcb84d69de49916d8a3",
+      "size": 2466778,
       "arch": "x86_64"
     }
   ]
