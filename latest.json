@@ -1,21 +1,21 @@
 {
-  "version": "0.5.2",
-  "notes": "• Neu: AutoFOH liest beim Verbinden die Parameterliste des Pults und zeigt in SoundCheck AI, ob es einen einstellbaren Delay meldet. Die Abfrage ändert nichts am Pult.",
+  "version": "0.5.3",
+  "notes": "• Neu: Ruhigeres Design mit einem Akzent und gedämpften Statusfarben\n• Neu: Keine Emoji mehr in Chat und Handy-Seite",
   "page": "https://github.com/bungalskin-ui/autofoh-releases",
-  "date": "2026-11-05",
+  "date": "2026-11-09",
   "assets": [
     {
       "file": "AutoFOH-Mac-AppleSilicon-M1-M2-M3-M4.zip",
-      "url": "https://github.com/bungalskin-ui/autofoh-releases/releases/download/v0.5.2/AutoFOH-Mac-AppleSilicon-M1-M2-M3-M4.zip",
-      "sha256": "52990a9ce691183e30209252c66c53862ecab6556a5f877f73aeea710bf6fac4",
-      "size": 2379647,
+      "url": "https://github.com/bungalskin-ui/autofoh-releases/releases/download/v0.5.3/AutoFOH-Mac-AppleSilicon-M1-M2-M3-M4.zip",
+      "sha256": "dd36146963273d92442f4198f494c409cf3e81070a1f10a66a322570f7235d60",
+      "size": 2385987,
       "arch": "arm64"
     },
     {
       "file": "AutoFOH-Mac-Intel.zip",
-      "url": "https://github.com/bungalskin-ui/autofoh-releases/releases/download/v0.5.2/AutoFOH-Mac-Intel.zip",
-      "sha256": "005976a58853d33139d31ab15e3f44b3897b76d89794d96de42832be8bbf0237",
-      "size": 2495809,
+      "url": "https://github.com/bungalskin-ui/autofoh-releases/releases/download/v0.5.3/AutoFOH-Mac-Intel.zip",
+      "sha256": "32a6b0c669eb2d38a308b6c5accb66ffe4a741de97f8f03615bfd484d74404ae",
+      "size": 2504899,
       "arch": "x86_64"
     }
   ]
