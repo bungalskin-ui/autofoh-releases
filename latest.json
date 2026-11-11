@@ -1,21 +1,21 @@
 {
-  "version": "0.5.3",
-  "notes": "• Neu: Ruhigeres Design mit einem Akzent und gedämpften Statusfarben\n• Neu: Keine Emoji mehr in Chat und Handy-Seite",
+  "version": "0.5.4",
+  "notes": "• Neu: Ruhiges Standbild-Icon, das Dock-Icon bewegt sich nicht mehr",
   "page": "https://github.com/bungalskin-ui/autofoh-releases",
-  "date": "2026-11-09",
+  "date": "2026-11-11",
   "assets": [
     {
       "file": "AutoFOH-Mac-AppleSilicon-M1-M2-M3-M4.zip",
-      "url": "https://github.com/bungalskin-ui/autofoh-releases/releases/download/v0.5.3/AutoFOH-Mac-AppleSilicon-M1-M2-M3-M4.zip",
-      "sha256": "dd36146963273d92442f4198f494c409cf3e81070a1f10a66a322570f7235d60",
-      "size": 2385987,
+      "url": "https://github.com/bungalskin-ui/autofoh-releases/releases/download/v0.5.4/AutoFOH-Mac-AppleSilicon-M1-M2-M3-M4.zip",
+      "sha256": "3ff91afcd3a03a3c91213878f744d4b22e96266eb6f218f6b768cdec14ffd055",
+      "size": 2264643,
       "arch": "arm64"
     },
     {
       "file": "AutoFOH-Mac-Intel.zip",
-      "url": "https://github.com/bungalskin-ui/autofoh-releases/releases/download/v0.5.3/AutoFOH-Mac-Intel.zip",
-      "sha256": "32a6b0c669eb2d38a308b6c5accb66ffe4a741de97f8f03615bfd484d74404ae",
-      "size": 2504899,
+      "url": "https://github.com/bungalskin-ui/autofoh-releases/releases/download/v0.5.4/AutoFOH-Mac-Intel.zip",
+      "sha256": "961073d6788def81c276b23b52a2f04b1ba03a7c0d90f654829a72a3af07f83c",
+      "size": 2380001,
       "arch": "x86_64"
     }
   ]
