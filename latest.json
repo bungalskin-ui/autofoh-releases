@@ -1,21 +1,21 @@
 {
-  "version": "0.5.4",
-  "notes": "• Neu: Ruhiges Standbild-Icon, das Dock-Icon bewegt sich nicht mehr",
+  "version": "0.5.5",
+  "notes": "• Sicherheitsupdate: NOT-AUS stoppt jetzt auch den Autopiloten und den KlangMix\n• Laufende Fader-Fahrten werden bei NOT-AUS und Eingriff sofort abgebrochen\n• Die Audioquelle wird geprüft: Das Pult wird nur mit echtem Pult-Audio geregelt\n• Stabiler: keine Abstürze mehr im Dashboard und in der Monitor-Schnittstelle\n• Sicherheitshinweis beim ersten Start\n• Gaffabox-Link im Sperrfenster repariert\n• Bitte aktualisieren. Am echten DM3 noch nicht vollständig getestet.",
   "page": "https://github.com/bungalskin-ui/autofoh-releases",
-  "date": "2026-11-11",
+  "date": "2026-11-26",
   "assets": [
     {
       "file": "AutoFOH-Mac-AppleSilicon-M1-M2-M3-M4.zip",
-      "url": "https://github.com/bungalskin-ui/autofoh-releases/releases/download/v0.5.4/AutoFOH-Mac-AppleSilicon-M1-M2-M3-M4.zip",
-      "sha256": "3ff91afcd3a03a3c91213878f744d4b22e96266eb6f218f6b768cdec14ffd055",
-      "size": 2264643,
+      "url": "https://github.com/bungalskin-ui/autofoh-releases/releases/download/v0.5.5/AutoFOH-Mac-AppleSilicon-M1-M2-M3-M4.zip",
+      "sha256": "affacdaa5bb0b6c8cd7ae2b0a009d98293d6f812db94244a693084db8b022246",
+      "size": 2367390,
       "arch": "arm64"
     },
     {
       "file": "AutoFOH-Mac-Intel.zip",
-      "url": "https://github.com/bungalskin-ui/autofoh-releases/releases/download/v0.5.4/AutoFOH-Mac-Intel.zip",
-      "sha256": "961073d6788def81c276b23b52a2f04b1ba03a7c0d90f654829a72a3af07f83c",
-      "size": 2380001,
+      "url": "https://github.com/bungalskin-ui/autofoh-releases/releases/download/v0.5.5/AutoFOH-Mac-Intel.zip",
+      "sha256": "ce718e39311d993b9869ad8149fbc84972c1a162495b9db422a3efcdfe2654d9",
+      "size": 2509524,
       "arch": "x86_64"
     }
   ]
